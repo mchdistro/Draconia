@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Draconia/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Draconia",
+    "name": "Draconia : 드래곤의 땅",
     "description": "Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/mchdistro/Draconia/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:25550",
