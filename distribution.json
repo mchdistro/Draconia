@@ -726,9 +726,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 66,
+            "size": 156,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/servers.dat",
-            "MD5": "b32268c0981fc4b98c716ebea7b1e918",
+            "MD5": "5e9ef3b661f36eab51f266466821cc9c",
             "path": "servers.dat"
           }
         },
