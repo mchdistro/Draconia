@@ -489,6 +489,16 @@
           }
         },
         {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012500,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "b5e9905073787ed9ab392aaf22b65a40"
+          }
+        },
+        {
           "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
