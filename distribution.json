@@ -446,6 +446,19 @@
           }
         },
         {
+          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40125,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "ac909c99a2a96ead2073f98bf0dd7b78"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:2.6.1@jar",
           "name": "Citadel",
           "type": "ForgeMod",
