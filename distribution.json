@@ -433,13 +433,16 @@
           ]
         },
         {
-          "id": "net.blay09.mods:balm:7.3.30@jar",
-          "name": "Balm",
+          "id": "com.teammetallurgy:aquaculture:2.5.5@jar",
+          "name": "Aquaculture 2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 594985,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.30-all.jar",
-            "MD5": "1bd9f893e3483ba108b1043f33a025e0"
+            "size": 601173,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Aquaculture-1.20.1-2.5.5.jar",
+            "MD5": "515dde53d77858310af77cd93a5d1316"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -453,13 +456,16 @@
           }
         },
         {
-          "id": "net.mde.dungeons:duneons:1.18@jar",
-          "name": "Minecraft Dungeons",
+          "id": "fuzs.completionistsindex:completionistsindex:8.0.0@jar",
+          "name": "Completionist's Index",
           "type": "ForgeMod",
           "artifact": {
-            "size": 49012714,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/dungeons_1.18_mc1.20.1.jar",
-            "MD5": "eae0a461cfe0aa8ea60a213728ab050b"
+            "size": 86781,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar",
+            "MD5": "026e4f2e761da8879ea57809de73c7d8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -468,11 +474,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -481,11 +484,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/ferritecore-6.0.1-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -496,6 +496,19 @@
             "size": 1012500,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "b5e9905073787ed9ab392aaf22b65a40"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012500,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "b5e9905073787ed9ab392aaf22b65a40"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -514,11 +527,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 428350,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
             "MD5": "c46791160a43bc35040f8f947e959024"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -547,11 +557,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2997869,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/koreanpatch-forge-1.8.2+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/koreanpatch-forge-1.8.2+mc1.20.1.jar",
             "MD5": "0515dcaababd0ea0b27762e72a91343c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -565,23 +572,23 @@
           }
         },
         {
-          "id": "generated.forgemod:nullscape:1.2.8@jar",
-          "name": "Nullscape",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 399214,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/Nullscape_1.20.x_v1.2.8.jar",
-            "MD5": "691a4526239d6b2b2525b40f209ec8a3"
-          }
-        },
-        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "dev.limonblaze.originsclasses:origins_classes:1.2.1@jar",
+          "name": "Origins: Classes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190573,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/origins-classes-forge-1.2.1.jar",
+            "MD5": "f6be5256d5eac00521e9add0fd3e6ed9"
           },
           "required": {
             "value": false
@@ -598,23 +605,42 @@
           }
         },
         {
-          "id": "dev.worldgen:tectonic:2.4.1@jar",
-          "name": "Tectonic",
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
+          "name": "Puzzles Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 349125,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/tectonic-forge-1.20.1-2.4.1.jar",
-            "MD5": "e4646116efca671837889dd58cad9844"
+            "size": 1342204,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+            "MD5": "3ca3da58d71c0b14241df38578ffdb22"
+          },
+          "required": {
+            "value": false
           }
         },
         {
-          "id": "net.blay09.mods:trashslot:15.1.1@jar",
-          "name": "TrashSlot",
+          "id": "net.mcreator.rusticengineer:rustic_engineer:1.1.1@jar",
+          "name": "Rustic Engineer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 117752,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.1.jar",
-            "MD5": "a74f9b63dc321e41c496a6069fc2a56e"
+            "size": 1643841,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/rustic_engineer-1.1.1-forge-1.20.1.jar",
+            "MD5": "820931241d6dd70014c3a0cef7b21ebf"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
