@@ -595,6 +595,19 @@
           }
         },
         {
+          "id": "io.github.apace100:origins:1.20.1-1.10.0.9@jar",
+          "name": "Origins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2307868,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/origins-forge-1.20.1-1.10.0.9-all.jar",
+            "MD5": "354f0f804636e76e1efcd16f2ae245d3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "su.plo.voice:plasmovoice:2.1.4@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
