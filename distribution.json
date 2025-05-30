@@ -696,6 +696,19 @@
           }
         },
         {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1342204,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+            "MD5": "3ca3da58d71c0b14241df38578ffdb22"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator.rusticengineer:rustic_engineer:1.1.1@jar",
           "name": "Rustic Engineer",
           "type": "ForgeMod",
