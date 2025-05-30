@@ -446,13 +446,13 @@
           }
         },
         {
-          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
-          "name": "Caelus API",
+          "id": "dzwdz.chat_heads:chat_heads:0.13.18@jar",
+          "name": "Chat Heads",
           "type": "ForgeMod",
           "artifact": {
-            "size": 40125,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/caelus-forge-3.2.0+1.20.1.jar",
-            "MD5": "ac909c99a2a96ead2073f98bf0dd7b78"
+            "size": 269811,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/chat_heads-0.13.18-forge-1.20.jar",
+            "MD5": "0ad4f0d6fce38b3fb9f9b037c701ed99"
           },
           "required": {
             "value": false
@@ -482,6 +482,19 @@
           }
         },
         {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -489,6 +502,19 @@
             "size": 1320675,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "net.mcreator:enlightened_end:5.0.14@jar",
+          "name": "Enlightend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21506560,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/enlightend-5.0.14-1.20.1.jar",
+            "MD5": "73e2f003a09de3eb399ec0f726e14793"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -545,6 +571,19 @@
           }
         },
         {
+          "id": "immersive_melodies:immersive_melodies:0.5.0+1.20.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5517619,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/immersive_melodies-0.5.0+1.20.1-forge.jar",
+            "MD5": "9651317c34ef01353b7bc76a629110d9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:15.20.0.108@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -575,6 +614,32 @@
           }
         },
         {
+          "id": "com.github.l_ender:cataclysm:2.65@jar",
+          "name": "Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 72159722,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/L_Enders_Cataclysm%201.20.1-2.66.jar",
+            "MD5": "a174d0dc293767e5bd277ed48158bcb8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.l_ender:lionfishapi:2.4@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165468,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/lionfishapi-2.4.jar",
+            "MD5": "53ec5280c6db0984f4bee51b7ebf5800"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.23.0+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -582,6 +647,32 @@
             "size": 870142,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/modernfix-forge-5.23.0+mc1.20.1.jar",
             "MD5": "457fdf4d9c521890ac697485d70e7d37"
+          }
+        },
+        {
+          "id": "com.bobmowzie:mowziesmobs:1.7.3@jar",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35239406,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/mowziesmobs-1.7.3.jar",
+            "MD5": "ae03fbc5568adbf84e49806af92844cd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.teamdurt:netherdungeons:1.1.0-snapshot4@jar",
+          "name": "Nether Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3768497,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/netherdungeons-1.1.0-snapshot4.jar",
+            "MD5": "ec28548b2280e16146b97bc51ded7789"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -595,32 +686,6 @@
           }
         },
         {
-          "id": "dev.limonblaze.originsclasses:origins_classes:1.2.1@jar",
-          "name": "Origins: Classes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 190573,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/origins-classes-forge-1.2.1.jar",
-            "MD5": "f6be5256d5eac00521e9add0fd3e6ed9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "io.github.apace100:origins:1.20.1-1.10.0.9@jar",
-          "name": "Origins",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2307868,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/origins-forge-1.20.1-1.10.0.9-all.jar",
-            "MD5": "354f0f804636e76e1efcd16f2ae245d3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "su.plo.voice:plasmovoice:2.1.4@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
@@ -628,19 +693,6 @@
             "size": 12152471,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.4.jar",
             "MD5": "873ee7fcbdbfe6586e2c3c71738b2be3"
-          }
-        },
-        {
-          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
-          "name": "Puzzles Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1342204,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
-            "MD5": "3ca3da58d71c0b14241df38578ffdb22"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -657,13 +709,13 @@
           }
         },
         {
-          "id": "generated.forgemod:terralith:2.5.4@jar",
-          "name": "Terralith",
+          "id": "com.silverminer:shrines:1.20.1-6.0.2@jar",
+          "name": "Shrines",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3156901,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Terralith_1.20.x_v2.5.4.jar",
-            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+            "size": 779680,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Shrines-1.20.1-6.0.2.jar",
+            "MD5": "5411c6020423702ee79e8d4c802ce1f2"
           },
           "required": {
             "value": false
