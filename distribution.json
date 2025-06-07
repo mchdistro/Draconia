@@ -751,7 +751,6 @@
           "artifact": {
             "size": 296,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/config/oculus.properties",
-            "MD5": "53723802cb69d7e2d09e066d0b76ac5d",
             "path": "config/oculus.properties"
           }
         },
@@ -762,7 +761,6 @@
           "artifact": {
             "size": 277,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/options.txt",
-            "MD5": "4f1ecc72845a401ca759b612ac62af20",
             "path": "options.txt"
           }
         },
