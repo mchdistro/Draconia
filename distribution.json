@@ -518,6 +518,16 @@
           }
         },
         {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.8@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2962947,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
+            "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
+          }
+        },
+        {
           "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
