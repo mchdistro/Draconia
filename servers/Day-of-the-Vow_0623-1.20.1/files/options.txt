@@ -4,7 +4,7 @@ enableVsync:false
 gamma:1.0
 particles:2
 renderClouds:"fast"
-resourcePacks:["vanilla","mod_resources","file/draconia"]
+resourcePacks:["vanilla","mod_resources","file/Draconia"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
