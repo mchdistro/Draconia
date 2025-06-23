@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Day-of-the-Vow_0528-1.20.1",
+      "id": "Day-of-the-Vow_0623-1.20.1",
       "name": "Draconia : 서약의 축제",
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/Draconia/raw/main/server-icon.png",
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 601173,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Aquaculture-1.20.1-2.5.5.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/Aquaculture-1.20.1-2.5.5.jar",
             "MD5": "515dde53d77858310af77cd93a5d1316"
           },
           "required": {
@@ -451,7 +451,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 269811,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/chat_heads-0.13.18-forge-1.20.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/chat_heads-0.13.18-forge-1.20.jar",
             "MD5": "0ad4f0d6fce38b3fb9f9b037c701ed99"
           },
           "required": {
@@ -464,7 +464,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3173637,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
             "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
           }
         },
@@ -474,7 +474,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 86781,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar",
             "MD5": "026e4f2e761da8879ea57809de73c7d8"
           },
           "required": {
@@ -487,7 +487,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           },
           "required": {
@@ -500,7 +500,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -510,7 +510,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21506560,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/enlightend-5.0.14-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/enlightend-5.0.14-1.20.1.jar",
             "MD5": "73e2f003a09de3eb399ec0f726e14793"
           },
           "required": {
@@ -523,7 +523,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2962947,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
             "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
           }
         },
@@ -533,7 +533,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -543,7 +543,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012500,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "b5e9905073787ed9ab392aaf22b65a40"
           }
         },
@@ -553,7 +553,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012500,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "b5e9905073787ed9ab392aaf22b65a40"
           },
           "required": {
@@ -566,7 +566,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           }
         },
@@ -576,7 +576,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 428350,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
             "MD5": "c46791160a43bc35040f8f947e959024"
           }
         },
@@ -586,7 +586,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5517619,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/immersive_melodies-0.5.0+1.20.1-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/immersive_melodies-0.5.0+1.20.1-forge.jar",
             "MD5": "9651317c34ef01353b7bc76a629110d9"
           },
           "required": {
@@ -599,7 +599,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1381978,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.108.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.108.jar",
             "MD5": "bcb355cbcb3e0b0138093889cf0a9fa6"
           }
         },
@@ -609,7 +609,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
@@ -619,7 +619,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2997869,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/koreanpatch-forge-1.8.2+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/koreanpatch-forge-1.8.2+mc1.20.1.jar",
             "MD5": "0515dcaababd0ea0b27762e72a91343c"
           }
         },
@@ -629,7 +629,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 72159722,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/L_Enders_Cataclysm%201.20.1-2.66.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/L_Enders_Cataclysm%201.20.1-2.66.jar",
             "MD5": "a174d0dc293767e5bd277ed48158bcb8"
           },
           "required": {
@@ -642,7 +642,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 165468,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/lionfishapi-2.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/lionfishapi-2.4.jar",
             "MD5": "53ec5280c6db0984f4bee51b7ebf5800"
           },
           "required": {
@@ -655,7 +655,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 870142,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/modernfix-forge-5.23.0+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/modernfix-forge-5.23.0+mc1.20.1.jar",
             "MD5": "457fdf4d9c521890ac697485d70e7d37"
           }
         },
@@ -665,7 +665,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35239406,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/mowziesmobs-1.7.3.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/mowziesmobs-1.7.3.jar",
             "MD5": "ae03fbc5568adbf84e49806af92844cd"
           },
           "required": {
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3768497,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/netherdungeons-1.1.0-snapshot4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/netherdungeons-1.1.0-snapshot4.jar",
             "MD5": "ec28548b2280e16146b97bc51ded7789"
           },
           "required": {
@@ -691,7 +691,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -701,7 +701,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12152471,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.4.jar",
             "MD5": "873ee7fcbdbfe6586e2c3c71738b2be3"
           }
         },
@@ -711,7 +711,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1342204,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
             "MD5": "3ca3da58d71c0b14241df38578ffdb22"
           },
           "required": {
@@ -724,7 +724,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1643841,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/rustic_engineer-1.1.1-forge-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/rustic_engineer-1.1.1-forge-1.20.1.jar",
             "MD5": "820931241d6dd70014c3a0cef7b21ebf"
           },
           "required": {
@@ -737,7 +737,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 779680,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/optionalon/Shrines-1.20.1-6.0.2.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/optionalon/Shrines-1.20.1-6.0.2.jar",
             "MD5": "5411c6020423702ee79e8d4c802ce1f2"
           },
           "required": {
@@ -750,7 +750,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1173691,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.38.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.38.jar",
             "MD5": "f11cc7cf3f05b1e97a071301eca1c65c"
           }
         },
@@ -760,7 +760,7 @@
           "type": "File",
           "artifact": {
             "size": 296,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/config/oculus.properties",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
         },
@@ -769,9 +769,130 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 277,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/options.txt",
+            "size": 336,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "100_coin.json",
+          "name": "100_coin.json",
+          "type": "File",
+          "artifact": {
+            "size": 89,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/100_coin.json",
+            "MD5": "2a927b424907f028ab8ae4550264ab7b",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/100_coin.json"
+          }
+        },
+        {
+          "id": "10_coin.json",
+          "name": "10_coin.json",
+          "type": "File",
+          "artifact": {
+            "size": 88,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/10_coin.json",
+            "MD5": "065ec10ada69509392c5e059fa333b66",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/10_coin.json"
+          }
+        },
+        {
+          "id": "1_coin.json",
+          "name": "1_coin.json",
+          "type": "File",
+          "artifact": {
+            "size": 87,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/1_coin.json",
+            "MD5": "c36a8da6cea5ef3981afadcc8ea19727",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/1_coin.json"
+          }
+        },
+        {
+          "id": "paper.json",
+          "name": "paper.json",
+          "type": "File",
+          "artifact": {
+            "size": 409,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/paper.json",
+            "MD5": "1b4c111ab2c17114e74f0bea393c6182",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/paper.json"
+          }
+        },
+        {
+          "id": "random_ticket.json",
+          "name": "random_ticket.json",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/random_ticket.json",
+            "MD5": "cdcdf7f76b1147b368b2bd1b663eb5b2",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/random_ticket.json"
+          }
+        },
+        {
+          "id": "100_coin.png",
+          "name": "100_coin.png",
+          "type": "File",
+          "artifact": {
+            "size": 13531,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/100_coin.png",
+            "MD5": "7d7cf0aca001b3b587601fda210e0a2e",
+            "path": "resourcepacks/Draconia/assets/minecraft/textures/item/100_coin.png"
+          }
+        },
+        {
+          "id": "10_coin.png",
+          "name": "10_coin.png",
+          "type": "File",
+          "artifact": {
+            "size": 13435,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/10_coin.png",
+            "MD5": "53e027446402ae80df040f16527a858c",
+            "path": "resourcepacks/Draconia/assets/minecraft/textures/item/10_coin.png"
+          }
+        },
+        {
+          "id": "1_coin.png",
+          "name": "1_coin.png",
+          "type": "File",
+          "artifact": {
+            "size": 13424,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/1_coin.png",
+            "MD5": "c8dad8e11e8a6c7e2dca849f92658b56",
+            "path": "resourcepacks/Draconia/assets/minecraft/textures/item/1_coin.png"
+          }
+        },
+        {
+          "id": "random_ticket.png",
+          "name": "random_ticket.png",
+          "type": "File",
+          "artifact": {
+            "size": 3634,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/random_ticket.png",
+            "MD5": "b22d91b89f0fd78637d93321630e5c1f",
+            "path": "resourcepacks/Draconia/assets/minecraft/textures/item/random_ticket.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/pack.mcmeta",
+            "MD5": "b49a881d198ccebc51987d3751b6f1bc",
+            "path": "resourcepacks/Draconia/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 276068,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/pack.png",
+            "MD5": "95c31d5dc430f764dc05bf07b83dc307",
+            "path": "resourcepacks/Draconia/pack.png"
           }
         },
         {
@@ -780,7 +901,7 @@
           "type": "File",
           "artifact": {
             "size": 156,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/servers.dat",
             "MD5": "5e9ef3b661f36eab51f266466821cc9c",
             "path": "servers.dat"
           }
@@ -791,7 +912,7 @@
           "type": "File",
           "artifact": {
             "size": 1669167,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
             "MD5": "fb757db17e378d3174611d4d0698280d",
             "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
           }
@@ -802,7 +923,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0528-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }

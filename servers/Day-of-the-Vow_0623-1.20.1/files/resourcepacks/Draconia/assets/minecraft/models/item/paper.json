@@ -1,0 +1,13 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/paper"
+  },
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/1_coin" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/10_coin" },
+    { "predicate": { "custom_model_data": 100 }, "model": "item/100_coin" },
+    { "predicate": { "custom_model_data": 777 }, "model": "item/random_ticket" }
+  ]
+}
