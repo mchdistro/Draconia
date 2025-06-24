@@ -801,10 +801,21 @@
           "name": "1_coin.json",
           "type": "File",
           "artifact": {
-            "size": 87,
+            "size": 81,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/1_coin.json",
-            "MD5": "c36a8da6cea5ef3981afadcc8ea19727",
+            "MD5": "e6a4390c865e0bf3315bb894d2c83724",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/1_coin.json"
+          }
+        },
+        {
+          "id": "chest.json",
+          "name": "chest.json",
+          "type": "File",
+          "artifact": {
+            "size": 176,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/chest.json",
+            "MD5": "c514bad30ca829382d2486a0210a14b1",
+            "path": "resourcepacks/Draconia/assets/minecraft/models/item/chest.json"
           }
         },
         {
@@ -812,9 +823,9 @@
           "name": "paper.json",
           "type": "File",
           "artifact": {
-            "size": 409,
+            "size": 327,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/paper.json",
-            "MD5": "1b4c111ab2c17114e74f0bea393c6182",
+            "MD5": "1a1db7261e16fe3f6339c55edca5592a",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/paper.json"
           }
         },
@@ -867,9 +878,9 @@
           "name": "random_ticket.png",
           "type": "File",
           "artifact": {
-            "size": 3634,
+            "size": 3845,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/random_ticket.png",
-            "MD5": "b22d91b89f0fd78637d93321630e5c1f",
+            "MD5": "98b7ccf76b5352261f6b039da416ea34",
             "path": "resourcepacks/Draconia/assets/minecraft/textures/item/random_ticket.png"
           }
         },
