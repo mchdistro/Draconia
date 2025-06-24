@@ -808,24 +808,13 @@
           }
         },
         {
-          "id": "chest.json",
-          "name": "chest.json",
-          "type": "File",
-          "artifact": {
-            "size": 176,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/chest.json",
-            "MD5": "c514bad30ca829382d2486a0210a14b1",
-            "path": "resourcepacks/Draconia/assets/minecraft/models/item/chest.json"
-          }
-        },
-        {
           "id": "paper.json",
           "name": "paper.json",
           "type": "File",
           "artifact": {
-            "size": 327,
+            "size": 409,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_0623-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/paper.json",
-            "MD5": "1a1db7261e16fe3f6339c55edca5592a",
+            "MD5": "1b4c111ab2c17114e74f0bea393c6182",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/paper.json"
           }
         },
