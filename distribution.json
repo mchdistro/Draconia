@@ -505,16 +505,6 @@
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.8@jar",
-          "name": "Farmer's Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2962947,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_v1-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
-            "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
-          }
-        },
-        {
           "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
@@ -565,19 +555,6 @@
             "size": 428350,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_v1-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
             "MD5": "c46791160a43bc35040f8f947e959024"
-          }
-        },
-        {
-          "id": "immersive_melodies:immersive_melodies:0.5.0+1.20.1@jar",
-          "name": "Immersive Melodies",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5517619,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Day-of-the-Vow_v1-1.20.1/forgemods/optionalon/immersive_melodies-0.5.0+1.20.1-forge.jar",
-            "MD5": "9651317c34ef01353b7bc76a629110d9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
