@@ -29,7 +29,7 @@ provider = "NULL"
 	#Allowed Values: NONE, INTERACTION, ITEM_USE, INTERACTION_AND_ITEMUSE
 	key_conflict_resolve_scope = "INTERACTION"
 	#Allowed Values: ADAPTIVE, SWITCH_MODE
-	preference_work = "SWITCH_MODE"
+	preference_work = "ADAPTIVE"
 	#Defines how the camera toggles perspectives.
 	#
 	#    1. Vanilla (Default)

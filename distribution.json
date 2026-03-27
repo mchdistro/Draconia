@@ -802,9 +802,9 @@
           "name": "epicfight-client.toml",
           "type": "File",
           "artifact": {
-            "size": 82985,
+            "size": 82982,
             "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/config/epicfight-client.toml",
-            "MD5": "ddd89edb980e0ef58925849b1c57e731",
+            "MD5": "fe7d594066bb4b713e664a2eed065697",
             "path": "config/epicfight-client.toml"
           }
         },
