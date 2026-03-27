@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Draconia-1.20.1",
+      "id": "Draconia_v3-1.20.1",
       "name": "Draconia : 잊지 못할 하늘",
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/Draconia/raw/main/server-icon.png",
@@ -453,7 +453,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3195854,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/ATi%20Structures%20V1.4.3%20(1.20+).jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/ATi%20Structures%20V1.4.3%20(1.20+).jar",
             "MD5": "155e1184bc52323687e21b50ad2ff5e7"
           }
         },
@@ -463,7 +463,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 297321,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/awesomedungeonocean-forge-1.20.1-3.3.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/awesomedungeonocean-forge-1.20.1-3.3.0.jar",
             "MD5": "8cf9bfaa469269a866806a7e7d9bdf48"
           }
         },
@@ -473,7 +473,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21696354,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/bossesrise-1.20.1-forge-1.0.9.2b.jar",
             "MD5": "e4633b2ee6376af022037ba96c2d4349"
           }
         },
@@ -483,7 +483,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 722765,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/chat_heads-0.15.0-forge-1.20.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/chat_heads-0.15.0-forge-1.20.jar",
             "MD5": "74d7adf4a7ea4d2f6544d61690836b0f"
           }
         },
@@ -493,7 +493,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3185275,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/citadel-2.6.3-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/citadel-2.6.3-1.20.1.jar",
             "MD5": "da80c09b998d829b6d580e5be76dcc7b"
           }
         },
@@ -503,7 +503,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -513,7 +513,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1465937,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/crypticfoes-1.0.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/crypticfoes-1.0.4.jar",
             "MD5": "ae39968d4d9f21f212af57f5b5ec95ca"
           }
         },
@@ -523,7 +523,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
@@ -533,7 +533,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16639491,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/dragonforged-1.0.6-forge-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/dragonforged-1.0.6-forge-1.20.1.jar",
             "MD5": "8f64e6f7044f502de51b5034123aba4f"
           }
         },
@@ -543,7 +543,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -553,7 +553,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8041868,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/epic-fight-20.14.10-mc1.20.1-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/epic-fight-20.14.10-mc1.20.1-forge.jar",
             "MD5": "175b28df4bd39613a985cae57461ec8d"
           }
         },
@@ -563,7 +563,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -573,7 +573,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 169369,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/forge-medievalend-1.0.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/forge-medievalend-1.0.1.jar",
             "MD5": "11cd1514ba0089c4ed35927e3a4c7e6a"
           }
         },
@@ -583,7 +583,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1039047,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.3.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.3.jar",
             "MD5": "60b7bce466abc60377785bf3dc84974c"
           }
         },
@@ -593,7 +593,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95330,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
             "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
           }
         },
@@ -603,7 +603,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40606,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/gtvideoplayer-forge-2.0.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/gtvideoplayer-forge-2.0.0.jar",
             "MD5": "a1277e79d689be58f8d951537ddd191e"
           }
         },
@@ -613,7 +613,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           }
         },
@@ -623,7 +623,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 538992,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
             "MD5": "8fb21bb328cc322c6d9749eff087509f"
           }
         },
@@ -633,7 +633,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1409642,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
             "MD5": "a5192227a15e0fe0e367828b32c1f472"
           }
         },
@@ -643,7 +643,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
@@ -653,7 +653,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 316542,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
             "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
           }
         },
@@ -663,7 +663,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190536,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
             "MD5": "68ba05aaf09f053934537af691e959df"
           }
         },
@@ -673,7 +673,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 722849,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
             "MD5": "74f0484b236666b6648b7be759283f57"
           }
         },
@@ -683,7 +683,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 826829,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
             "MD5": "61332114c9c317080faaf35f8183d67b"
           }
         },
@@ -693,7 +693,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4583445,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/mythsandlegends-0.0.8.6.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/mythsandlegends-0.0.8.6.jar",
             "MD5": "4edae7c8249aa6e678991aab97926b2d"
           }
         },
@@ -703,7 +703,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 50688,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/NeoAuth-1.20.1-1.0.3.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/NeoAuth-1.20.1-1.0.3.jar",
             "MD5": "5c6935e1b2c9377d94479404324816c3"
           }
         },
@@ -713,7 +713,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -723,7 +723,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12182458,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.8.jar",
             "MD5": "234d1a76ae25f5efc220ac879981c7e0"
           }
         },
@@ -733,7 +733,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 724779,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/sky_whale_ship-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/sky_whale_ship-1.20.1.jar",
             "MD5": "4e7438c1358abc424337f66d9407332c"
           }
         },
@@ -743,7 +743,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107533,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
             "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893"
           }
         },
@@ -753,7 +753,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104037,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/unusual_spawning-1.20.1-1.2.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/unusual_spawning-1.20.1-1.2.1.jar",
             "MD5": "a00e35da9aad2319b107bcfb50115159"
           }
         },
@@ -763,7 +763,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12847528,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/Unusual-Prehistory-2-1.20.1-1.2.3.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/Unusual-Prehistory-2-1.20.1-1.2.3.jar",
             "MD5": "02c68ce952b51e79f745a0d0b1ef5d94"
           }
         },
@@ -773,7 +773,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37046674,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/watermedia-2.1.37.jar",
             "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
           }
         },
@@ -783,7 +783,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 179378119,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/wm_binaries-3.0.0-rc.1.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/wm_binaries-3.0.0-rc.1.jar",
             "MD5": "67e097835161c6c4f7c5325624fc51fb"
           }
         },
@@ -793,7 +793,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 370524,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
@@ -803,7 +803,7 @@
           "type": "File",
           "artifact": {
             "size": 82982,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/config/epicfight-client.toml",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/config/epicfight-client.toml",
             "MD5": "fe7d594066bb4b713e664a2eed065697",
             "path": "config/epicfight-client.toml"
           }
@@ -814,7 +814,7 @@
           "type": "File",
           "artifact": {
             "size": 298,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/config/oculus.properties",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
         },
@@ -824,7 +824,7 @@
           "type": "File",
           "artifact": {
             "size": 21696354,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/mods/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/mods/bossesrise-1.20.1-forge-1.0.9.2b.jar",
             "MD5": "e4633b2ee6376af022037ba96c2d4349",
             "path": "mods/bossesrise-1.20.1-forge-1.0.9.2b.jar"
           }
@@ -834,8 +834,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5520,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/options.txt",
+            "size": 7399,
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -845,7 +845,7 @@
           "type": "File",
           "artifact": {
             "size": 2292180,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/hex.zip",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/hex.zip",
             "MD5": "46ac7024ad1d72632b28b0904a2f846a",
             "path": "resourcepacks/Draconia/assets/minecraft/font/hex.zip"
           }
@@ -856,7 +856,7 @@
           "type": "File",
           "artifact": {
             "size": 89,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/include/unifont.json",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/include/unifont.json",
             "MD5": "eb7db06ad83e1daf2d60f52a7cd67eba",
             "path": "resourcepacks/Draconia/assets/minecraft/font/include/unifont.json"
           }
@@ -867,7 +867,7 @@
           "type": "File",
           "artifact": {
             "size": 79,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/coin.json",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/coin.json",
             "MD5": "605e49de06bf29e6099571e1d557793e",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/coin.json"
           }
@@ -878,7 +878,7 @@
           "type": "File",
           "artifact": {
             "size": 246,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/paper.json",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/paper.json",
             "MD5": "45ffdad0415bfa3b7ccef4bb54e637aa",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/paper.json"
           }
@@ -889,7 +889,7 @@
           "type": "File",
           "artifact": {
             "size": 81,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/ticket.json",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/models/item/ticket.json",
             "MD5": "2559ffcc3173576376eda6c2ee4223b7",
             "path": "resourcepacks/Draconia/assets/minecraft/models/item/ticket.json"
           }
@@ -900,7 +900,7 @@
           "type": "File",
           "artifact": {
             "size": 13531,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/coin.png",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/coin.png",
             "MD5": "7d7cf0aca001b3b587601fda210e0a2e",
             "path": "resourcepacks/Draconia/assets/minecraft/textures/item/coin.png"
           }
@@ -911,7 +911,7 @@
           "type": "File",
           "artifact": {
             "size": 3845,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/ticket.png",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/ticket.png",
             "MD5": "98b7ccf76b5352261f6b039da416ea34",
             "path": "resourcepacks/Draconia/assets/minecraft/textures/item/ticket.png"
           }
@@ -922,7 +922,7 @@
           "type": "File",
           "artifact": {
             "size": 4556,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/LICENSE.txt",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/LICENSE.txt",
             "MD5": "73ce323f9460ee8217ecfc67978e2066",
             "path": "resourcepacks/Draconia/LICENSE.txt"
           }
@@ -933,7 +933,7 @@
           "type": "File",
           "artifact": {
             "size": 99,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/pack.mcmeta",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/pack.mcmeta",
             "MD5": "3e630183609a530fd080d16ce92f402c",
             "path": "resourcepacks/Draconia/pack.mcmeta"
           }
@@ -944,7 +944,7 @@
           "type": "File",
           "artifact": {
             "size": 216490,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/resourcepacks/Draconia/pack.png",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/resourcepacks/Draconia/pack.png",
             "MD5": "fde2017861a183894cff4b2b97030f0b",
             "path": "resourcepacks/Draconia/pack.png"
           }
@@ -955,7 +955,7 @@
           "type": "File",
           "artifact": {
             "size": 90,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/servers.dat",
             "MD5": "96ceab1a7c3def35869aa30918fd473c",
             "path": "servers.dat"
           }
@@ -966,7 +966,7 @@
           "type": "File",
           "artifact": {
             "size": 540391,
-            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip",
+            "url": "https://github.com/mchdistro/Draconia/raw/main/servers/Draconia_v3-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip",
             "MD5": "8e334ef582fd161c9b6b22228de3650c",
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip"
           }
