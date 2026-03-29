@@ -970,6 +970,17 @@
             "MD5": "8e334ef582fd161c9b6b22228de3650c",
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip"
           }
+        },
+        {
+          "id": "Draconia.mp4",
+          "name": "Draconia.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 469063150,
+            "url": "http://cdn.mc.gotiger.dev/Draconia.mp4",
+            "MD5": "d327957c5048815b738fe2a2a031e606",
+            "path": "videos/Draconia.mp4"
+          }
         }
       ]
     }
